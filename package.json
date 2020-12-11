@@ -1,6 +1,6 @@
 {
   "name": "random-question",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "THIS IS A PACKAGE THAT RANDOMISES QUESTIONS AND RETURN A STRING OF A QUESTION",
   "main": "index.js",
   "scripts": {
